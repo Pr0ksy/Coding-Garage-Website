@@ -1,4 +1,4 @@
-# 🌐 Coding Garage
+# 🏎️ Coding Garage
 Coding Garage RS is a modern and simple landing page built with **HTML, CSS, and JavaScript**.  
 It serves as a place to showcase projects, services, and resources related to vehicle coding.  
 
